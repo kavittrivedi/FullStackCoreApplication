@@ -1,4 +1,4 @@
-﻿namespace FullStackApplication.Services
+﻿namespace FullStackApplication.AppSettingsModels
 {
     public class ApiSettings
     {
