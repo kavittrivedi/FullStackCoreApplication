@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.35004.147
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FullStackApplicationApi", "FullStackApplicationApi\FullStackApplicationApi.csproj", "{933AF1BB-A0B2-47B9-A4BB-F555ABB17EE8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FullStackApplication", "FullStackApplication\FullStackApplication.csproj", "{AEF5D7CD-C5BA-48D1-9183-2E48FEE7488F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{933AF1BB-A0B2-47B9-A4BB-F555ABB17EE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{933AF1BB-A0B2-47B9-A4BB-F555ABB17EE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{933AF1BB-A0B2-47B9-A4BB-F555ABB17EE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEF5D7CD-C5BA-48D1-9183-2E48FEE7488F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEF5D7CD-C5BA-48D1-9183-2E48FEE7488F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEF5D7CD-C5BA-48D1-9183-2E48FEE7488F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEF5D7CD-C5BA-48D1-9183-2E48FEE7488F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
